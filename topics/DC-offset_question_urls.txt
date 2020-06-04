@@ -1,0 +1,4 @@
+http://www.quora.com/What-is-DC-offset
+http://www.quora.com/How-can-you-measure-the-true-RMS-value-of-a-waveform-with-DC-offset-using-a-true-RMS-multimeter-that-filters-out-such-DC-component
+http://www.quora.com/unanswered/What-is-DC-offset-and-how-does-it-affect-power-quality
+http://www.quora.com/What-are-the-algorithms-to-identify-DC-offset-and-remove-it-dynamically-from-a-signal

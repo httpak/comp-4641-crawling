@@ -1,0 +1,11 @@
+http://www.quora.com/What-is-a-disc-space
+http://www.quora.com/Among-the-tape-storage-technology-to-ever-exist-what-kind-of-data-storage-tape-is-still-active-in-development-or-production-beside-LTO-How-about-an-MO-disk
+http://www.quora.com/What-percentage-of-the-worlds-computer-storage-is-being-wasted-by-duplicate-photos-What-can-we-do-to-mitigate-this
+http://www.quora.com/Whats-the-best-3TB-HDD-under-100
+http://www.quora.com/Which-is-larger-2-98-GB-or-20-GB
+http://www.quora.com/How-are-images-saved-in-form-of-bits-in-a-computer
+http://www.quora.com/unanswered/How-does-Hitachi-Data-Systems-provide-modular-mid-range-and-high-end-computer-data-storage-systems
+http://www.quora.com/Is-there-a-specific-term-for-the-data-in-a-storage-frame-that-gets-modified-that-implies-wasted-change-In-a-system-where-changed-storage-blocks-are-replicated-to-another-site-is-there-a-term-for-inefficient
+http://www.quora.com/unanswered/What-are-good-use-cases-for-Stratis-Storage-Manager
+http://www.quora.com/In-what-way-SSD-better-than-HDD-What-makes-SSD-costlier-than-HDD
+http://www.quora.com/Is-128-GB-of-storage-on-a-MacBook-Pro-retina-enough

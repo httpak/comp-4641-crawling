@@ -1,0 +1,3 @@
+http://www.quora.com/What-can-organizations-do-to-prevent-Mirai-botnet-attacks
+http://www.quora.com/unanswered/How-do-I-perform-denial-of-service-attack-using-arp
+http://www.quora.com/Why-does-my-modem-restarts-when-I-use-hping3-command-in-Kali-Linux

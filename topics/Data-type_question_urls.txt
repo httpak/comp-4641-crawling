@@ -1,0 +1,12 @@
+http://www.quora.com/unanswered/What-are-the-called-properties-of-a-data-type
+http://www.quora.com/Im-writing-a-CLI-program-C-Its-to-record-orders-table-numbers-payment-info-food-prices-What-data-structures-are-ideal-for-these
+http://www.quora.com/What-data-types-are-*-+-and-considered-in-Java
+http://www.quora.com/How-can-I-define-my-own-data-type-in-Java
+http://www.quora.com/unanswered/Which-datatype-should-used-to-store-a-value-generated-by-subtracting-one-datetime-value-from-another
+http://www.quora.com/Is-the-precedence-of-the-byte-data-type-more-than-the-char-data-type
+http://www.quora.com/unanswered/How-many-types-of-data-types-are-there-in-Salesforce
+http://www.quora.com/What-are-all-of-the-possible-implicit-data-type-conversions-in-Java
+http://www.quora.com/unanswered/What-are-some-examples-of-primitive-data-types
+http://www.quora.com/What-is-data-type-in-Java
+http://www.quora.com/What-is-an-algebriac-data-type
+http://www.quora.com/Can-I-use-Class-as-data-type-in-Java

@@ -1,0 +1,5 @@
+http://www.quora.com/unanswered/What-is-the-evidence-supporting-the-ACT-R-cognitive-architecture-as-a-model-of-human-cognition-and-problem-solving
+http://www.quora.com/unanswered/What-is-your-review-of-ACT-R
+http://www.quora.com/Can-a-SOAR-implementation-such-as-jSOAR-be-used-as-a-general-purpose-expert-system
+http://www.quora.com/unanswered/Are-there-any-good-video-tutorials-for-the-ACT-R-cognitive-architecture-online
+http://www.quora.com/Is-Python-ACT-R-still-supported-If-so-where-can-I-get-some-help-support-in-setting-it-up

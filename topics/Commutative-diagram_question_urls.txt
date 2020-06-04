@@ -1,0 +1,3 @@
+http://www.quora.com/unanswered/What-does-it-mean-for-the-arrows-in-the-commutative-diagram-of-pullbacks-and-pushouts-to-be-in-opposite-directions-to-each-other
+http://www.quora.com/unanswered/What-do-we-mean-when-we-say-some-diagram-commutes
+http://www.quora.com/unanswered/How-do-I-create-a-well-aligned-clean-structure-to-define-a-function-mathematics

@@ -1,0 +1,13 @@
+http://www.quora.com/unanswered/Where-is-Datalog-ai-located-in-India
+http://www.quora.com/What-data-structures-are-used-in-Prolog
+http://www.quora.com/What-are-some-reasons-theoretical-practical-to-prefer-SQL-over-datalog
+http://www.quora.com/Is-Datalog-a-subset-of-Prolog
+http://www.quora.com/What-can-be-done-with-Datalog-that-cant-be-done-in-regular-SQL
+http://www.quora.com/unanswered/How-will-you-construct-a-small-example-to-demonstrate-that-least-model-semantics-and-least-fixpoint-semantics-do-not-work-for-Datalog-programs-with-negation-and-arithmetic-predicates
+http://www.quora.com/unanswered/What-is-the-difference-between-datalog-and-miniKanren
+http://www.quora.com/unanswered/If-datalog-is-more-expressive-than-SQL-is-it-more-expressive-than-MDX-and-if-so-can-any-query-in-SQL-MDX-be-constructed-in-datalog-form
+http://www.quora.com/Why-is-Datalog-becoming-popular-again
+http://www.quora.com/unanswered/How-can-I-implement-a-datalog-engine-on-top-of-a-graph-database
+http://www.quora.com/unanswered/What-conformity-exists-between-Datalog-Prolog-and-graph-databases-Are-any-free-tools-to-use-them-in-a-couple-on-Linux-preferably
+http://www.quora.com/What-is-DATALOG-in-simple-terms
+http://www.quora.com/unanswered/What-is-Datalog-used-for

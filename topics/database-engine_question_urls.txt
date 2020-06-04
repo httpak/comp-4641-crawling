@@ -1,0 +1,7 @@
+http://www.quora.com/What-database-engine-does-Europeana-use
+http://www.quora.com/unanswered/What-database-engine-does-Lynda-com-use
+http://www.quora.com/What-are-some-books-that-guide-one-on-creating-an-RDBMS-Engine
+http://www.quora.com/unanswered/What-is-the-best-database-engine-to-use-for-a-Node-js-app-which-will-work-as-a-register-for-an-institute-with-a-large-number-of-students
+http://www.quora.com/unanswered/Which-development-tool-is-used-to-interact-with-the-database-engine-of-SQL-Server
+http://www.quora.com/unanswered/What-are-database-engines
+http://www.quora.com/unanswered/Are-the-examples-of-open-source-normative-database-engines

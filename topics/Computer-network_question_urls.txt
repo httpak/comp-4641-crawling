@@ -1,0 +1,9 @@
+http://www.quora.com/Is-it-possible-to-break-117-13-229-6-17-into-4-subnets-such-that-first-subnet-has-at-least-300-hosts-the-2nd-subnet-has-just-1-host-the-3rd-subnet-has-100-hosts-at-max-and-the-4th-subnet-has-approximately-129-hosts
+http://www.quora.com/How-are-we-achieving-security-with-IPV6-as-there-is-no-NATing-takes-place
+http://www.quora.com/What-do-you-mean-by-passive-interface-in-EIGRP
+http://www.quora.com/Is-there-possibility-to-have-more-than-13-Top-Level-DNS-Servers
+http://www.quora.com/In-simple-terms-how-is-distance-vector-routing-used-to-find-out-new-routing-table-of-a-router
+http://www.quora.com/How-subnets-are-created-in-network-Computer-networks
+http://www.quora.com/unanswered/How-can-I-revise-the-complete-Computer-Science-syllabus-in-one-week
+http://www.quora.com/What-is-the-next-big-thing-in-computer-networks
+http://www.quora.com/What-would-be-the-difference-in-job-roles-between-CCNA-CCNP-certification-vs-a-Masters-in-Computer-Networks

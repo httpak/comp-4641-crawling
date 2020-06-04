@@ -1,0 +1,2 @@
+http://www.quora.com/Is-it-typical-to-use-message-passing-from-an-event-driven-and-multiprocess-server-application-to-organically-ensure-load-balancing-on-a-single-executable-which-has-a-process-that-just-passes-sockets-to-worker
+http://www.quora.com/How-do-client-server-networks-work

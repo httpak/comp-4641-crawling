@@ -1,0 +1,16 @@
+http://www.quora.com/unanswered/What-is-the-difference-between-the-Bellman-Equation-and-the-Bellman-Optimality-Equation
+http://www.quora.com/What-is-the-Bellman-equation-to-update-the-Q-table-in-reinforcement-learning
+http://www.quora.com/unanswered/I-was-a-bellman-and-I-got-transferred-to-be-receptionist-and-its-less-money-but-maybe-a-good-way-for-future-and-Im-confused-should-I-stay-like-I-am-or-go-back-as-bellman
+http://www.quora.com/unanswered/How-is-the-expected-reward-computed-in-the-Bellman-equation-of-reinforcement-learning
+http://www.quora.com/unanswered/What-is-the-correct-Bellman-equation-for-state-values
+http://www.quora.com/If-the-Bellman-equation-is-only-a-necessary-but-not-sufficient-condition-of-best-results-why-do-we-approximate-it-in-Q-Learning
+http://www.quora.com/In-control-theory-is-Bellman-equation-a-time-discritized-version-of-the-Hamilton-Jacobi-Bellman-equation-Can-one-be-derived-from-the-other
+http://www.quora.com/Why-should-optimal-Q-values-need-to-obey-the-Bellman-equation
+http://www.quora.com/unanswered/What-is-the-Bellman-operator-in-reinforcement-learning
+http://www.quora.com/unanswered/I-was-a-bellman-and-I-got-transferred-to-be-a-receptionist-and-its-less-money-but-maybe-a-good-way-for-the-future-and-Im-confused-should-I-stay-like-I-am-or-go-back-as-bellman
+http://www.quora.com/What-are-some-alternatives-to-the-Bellman-Equation-in-reinforcement-learning
+http://www.quora.com/What-can-you-use-the-Bellman-equation-for
+http://www.quora.com/In-Sutton-Bartos-book-on-reinforcement-learning-what-is-the-derivation-of-the-Bellman-equation-for-value-functions
+http://www.quora.com/Are-values-of-the-Bellman-equation-ever-backed-up-across-new-states-in-reinforcement-learning
+http://www.quora.com/unanswered/Why-does-Bellman-Equation-solve-an-indirect-policy
+http://www.quora.com/Why-are-there-several-Bellman-equations-U-V-Q-C

@@ -1,0 +1,2 @@
+http://www.quora.com/unanswered/What-is-the-best-capacity-management-tool-that-allows-the-reserving-of-data-center-resources-like-CPU-power-and-memory-This-for-data-centers
+http://www.quora.com/What-is-the-impact-of-JIT-on-capacity-management

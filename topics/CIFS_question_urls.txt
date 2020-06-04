@@ -1,0 +1,14 @@
+http://www.quora.com/unanswered/Can-one-use-an-NFS-or-SMB-CIFS-gateway-to-connect-clients-to-MooseFS-or-LizardFS-clustered-filesystem
+http://www.quora.com/unanswered/What-are-the-differences-between-NTLMV1-and-NTLMV2
+http://www.quora.com/unanswered/Why-are-CIFS-for-providing-shared-access-to-files
+http://www.quora.com/What-software-can-I-use-to-host-NFS-FTP-SFTP-and-CIFS-shares-on-Ubuntu
+http://www.quora.com/What-is-the-role-of-CIFS-in-computer-networking
+http://www.quora.com/What-is-the-difference-between-NetBIOS-and-SMB
+http://www.quora.com/How-does-SMB-authentication-work
+http://www.quora.com/unanswered/SMB-CIFS-How-do-I-force-MacOS-Lion-and-higher-to-always-use-NTLMv2
+http://www.quora.com/What-is-difference-between-CSV-cluster-storage-volume-and-SMB
+http://www.quora.com/Why-does-nobody-come-up-with-an-alternative-to-SMB
+http://www.quora.com/What-are-the-limitations-of-Linux-SMB-Protocol-samba-with-respect-to-its-Windows-implementation
+http://www.quora.com/What-is-the-difference-between-SAMBA-SMB-and-CIFS-Are-Linux-servers-vulnerable-to-the-WannaCry-attack
+http://www.quora.com/unanswered/What-is-the-difference-between-SMB-and-RMB
+http://www.quora.com/Does-Synology-DSM-5-0-support-the-use-of-NTLMv2

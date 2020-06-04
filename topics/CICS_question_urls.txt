@@ -1,0 +1,6 @@
+http://www.quora.com/What-is-DFHCOMMAREA-in-CICS
+http://www.quora.com/Which-is-the-automation-tool-for-a-CICS-screen-in-a-mainframe
+http://www.quora.com/How-do-the-CICS-tables-such-as-FCT-and-PCT-get-populated-Is-there-a-macro-that-gets-run-for-each-of-these-Surely-these-entries-would-need-to-be-created-before-embarking-on-developing-a-CICS-screen
+http://www.quora.com/What-is-Eibcalen-in-CICS
+http://www.quora.com/What-is-CICSPlex-in-a-mainframe
+http://www.quora.com/What-is-XCTL-in-CICS

@@ -1,0 +1,11 @@
+http://www.quora.com/unanswered/What-does-correlation-coefficient-measure
+http://www.quora.com/What-is-a-relation-coefficient
+http://www.quora.com/Is-correlation-coefficient-the-same-thing-as-beta-in-CAPM
+http://www.quora.com/Which-correlation-coefficient-might-one-expect-between-scores-on-an-extraversion-questionnaire-and-a-number-of-Facebook-friends
+http://www.quora.com/Is-there-an-online-calculator-for-calculating-a-correlation-coefficient-from-my-data
+http://www.quora.com/How-do-I-get-the-correlation-coefficient-when-DV1-is-measured-twice-pretest-and-posttest-while-DV2-is-measured-repeatedly-ten-times-Do-I-get-the-mean-score-of-DV2-first
+http://www.quora.com/If-I-understand-correctly-the-correlation-coefficient-tells-you-how-often-x-and-y-are-correlated-and-the-coefficient-of-variation-tells-you-how-much-of-the-change-in-y-can-be-explained-by-the-change-in-x-How-are
+http://www.quora.com/unanswered/What-is-the-correlation-coefficient-of-the-following-data-X-12-9-8-10-11-13-7-and-Y-14-8-6-9-11-12-3
+http://www.quora.com/40-x-14-11-30-x-13-12-20-x-12-6-10-x-11
+http://www.quora.com/What-does-correlation-coefficient-mean-in-a-population
+http://www.quora.com/unanswered/If-the-temperature-shown-by-Thermometer-A-Ta-and-that-shown-by-Thermometer-B-Tb-are-highly-correlated-r-2-99-9-p-10-5-how-can-we-tell-that-manually-increasing-Ta-doesnt-influence-Tb

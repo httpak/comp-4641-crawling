@@ -1,0 +1,17 @@
+http://www.quora.com/How-can-I-do-aggregate-functions-in-Microsoft-Access
+http://www.quora.com/unanswered/How-do-you-set-the-aggregation-function-of-a-measure
+http://www.quora.com/How-were-the-aggregate-functions-included-to-SQL
+http://www.quora.com/What-are-some-situations-in-which-the-aggregate-function-is-useful-and-is-more-suited-than-others
+http://www.quora.com/What-are-the-functions-of-aggregates-in-concrete
+http://www.quora.com/Is-group-by-clause-should-always-be-used-with-the-aggregate-functions
+http://www.quora.com/unanswered/What-are-aggregate-functions-used-for-in-Access
+http://www.quora.com/unanswered/What-relationship-does-the-aggregate-production-function-portray
+http://www.quora.com/unanswered/Aggregate-Function-How-do-I-optimize-the-below-query
+http://www.quora.com/unanswered/Which-RDBMS-is-good-for-aggregate-functions
+http://www.quora.com/What-does-the-aggregate-function-do-in-Excel
+http://www.quora.com/How-does-Redshift-apply-the-MAX-aggregate-function-to-a-VARCHAR-column
+http://www.quora.com/In-DB2-what-are-aggregate-functions
+http://www.quora.com/unanswered/In-aggregation-transformation-selected-the-keys-but-not-the-provided-aggregate-function-what-will-happen
+http://www.quora.com/What-are-aggregate-functions-in-Excel
+http://www.quora.com/unanswered/What-is-the-aggregate-function-in-Access-used-for
+http://www.quora.com/Will-aggregate-functions-return-1-record-as-the-output

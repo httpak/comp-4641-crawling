@@ -1,0 +1,11 @@
+http://www.quora.com/Is-meteor-js-the-only-framework-that-allows-you-to-create-fairly-easy-a-crud-system-with-user-acounts
+http://www.quora.com/How-difficult-is-it-to-create-a-CRUD-website
+http://www.quora.com/unanswered/What-the-fastest-way-to-create-the-SPA-admin-panel-providing-CRUD-operations
+http://www.quora.com/Is-there-a-way-to-create-APIs-a-k-a-web-service-in-any-language-by-only-defining-the-schemes-Can-I-get-my-CRUD-function-so-that-it-can-be-consumed-by-programs
+http://www.quora.com/What-computer-language-will-be-fastest-and-why-to-write-code-for-a-simple-program-that-touches-on-all-aspects-of-CRUD
+http://www.quora.com/Why-does-Laravel-use-RESTful-APIs-for-CRUD-What-are-the-main-benefits-How-does-it-differ-from-doing-a-traditional-SQL-insert-update-delete-select
+http://www.quora.com/What-happened-to-CRUD
+http://www.quora.com/What-are-good-examples-for-CRUD-applications-created-in-excel
+http://www.quora.com/How-can-I-keep-unidentified-crud-from-getting-stuck-in-the-soles-of-my-Converse-shoes
+http://www.quora.com/What-should-I-learn-next-after-CRUD
+http://www.quora.com/unanswered/In-some-scenario-it-is-provided-that-only-JMS-can-provide-the-details-crud-operations-of-an-inventory-system-How-do-I-design-this-system-in-J2EE-application-so-that-I-will-get-real-data-on-every-inventory-fetch-operation

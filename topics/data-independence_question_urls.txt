@@ -1,0 +1,6 @@
+http://www.quora.com/What-is-data-independence
+http://www.quora.com/Does-Lua-support-forced-data-independency-1
+http://www.quora.com/unanswered/What-is-meant-by-data-independence
+http://www.quora.com/How-does-the-3-level-architecture-of-DBMS-lead-to-data-independence
+http://www.quora.com/unanswered/What-are-some-examples-of-physical-data-independence-and-its-forms-if-they-are-there
+http://www.quora.com/unanswered/Is-logical-data-independence-harder-to-achieve
